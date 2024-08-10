@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning to strengthen my coding projects and trying to improve. 
 - 💞️ I’m looking to collaborate on PDF document invoice/Receipt reader. 
 - 📫 How to reach me chancecates@yahoo.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I think coding is like Pandora's Box. The more I learn, the more I realize I didn't know anything about computers.
 
 <!---
